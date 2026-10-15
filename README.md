@@ -56,3 +56,6 @@ git push -u origin main
 - **Backend (Render):** Web Service, root dir `backend`, build `pip install -r requirements.txt`,
   start `uvicorn app.main:app --host 0.0.0.0 --port $PORT`, env `CORS_ORIGINS=<your Vercel URL>`.
 - **Frontend (Vercel):** root dir `frontend`, framework Vite, env `VITE_API_BASE_URL=<your Render URL>`.
+
+
+<img width="1006" height="750" alt="Screenshot 2026-10-15 140953" src="https://github.com/user-attachments/assets/1102e682-5d76-4167-aefa-9508c6b4c936" />
