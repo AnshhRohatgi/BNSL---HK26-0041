@@ -62,11 +62,20 @@ git push -u origin main
 
 
 3. What technologies are used?
+
 Technology - Simple meaning
+
 React	- Builds the part of the website users see.
+
 JavaScript	- Makes the frontend work.
+
 Tailwind CSS -	Styles the website.
+
 Python -	Processes the consumption data.
+
 FastAPI -	Connects the frontend to the Python backend.
+
 Pandas	- Reads and calculates data from a CSV file.
+
 Vite - Runs the frontend development server and builds the website.
+
