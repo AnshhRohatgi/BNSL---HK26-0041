@@ -59,3 +59,14 @@ git push -u origin main
 
 
 <img width="1006" height="750" alt="Screenshot 2026-10-15 140953" src="https://github.com/user-attachments/assets/1102e682-5d76-4167-aefa-9508c6b4c936" />
+
+
+3. What technologies are used?
+Technology - Simple meaning
+React	- Builds the part of the website users see.
+JavaScript	- Makes the frontend work.
+Tailwind CSS -	Styles the website.
+Python -	Processes the consumption data.
+FastAPI -	Connects the frontend to the Python backend.
+Pandas	- Reads and calculates data from a CSV file.
+Vite - Runs the frontend development server and builds the website.
