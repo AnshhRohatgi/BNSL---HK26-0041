@@ -79,3 +79,5 @@ Pandas	- Reads and calculates data from a CSV file.
 
 Vite - Runs the frontend development server and builds the website.
 
+
+<img width="961" height="567" alt="Screenshot 2026-10-15 141424" src="https://github.com/user-attachments/assets/934d964e-2f73-489e-8760-91eec5191cc5" />
